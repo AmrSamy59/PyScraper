@@ -1,0 +1,25 @@
+Metadata-Version: 1.2
+Name: PyScraper
+Version: 1.0
+Summary: PyScraper is a python class powered by known libraries to make it easier to scrape websites
+Home-page: https://github.com/Gat123456/PyScraper
+Author: Amr Samy
+Author-email: 
+License: UNKNOWN
+Description: UNKNOWN
+Platform: any
+Classifier: Development Status :: 3 - Alpha
+Classifier: Intended Audience :: Developers
+Classifier: Topic :: Software Development :: Build Tools
+Classifier: Programming Language :: Python :: 3.2
+Classifier: Programming Language :: Python :: 3.3
+Classifier: Programming Language :: Python :: 3.4
+Classifier: Programming Language :: Python :: 3.5
+Classifier: Programming Language :: Python :: 3.6
+Classifier: Programming Language :: Python :: 3.7
+Classifier: Programming Language :: Python :: 3.8
+Requires: mechanize
+Requires: cookiejar
+Requires: beautifulsoup4
+Requires: urllib3
+Requires-Python: >=3

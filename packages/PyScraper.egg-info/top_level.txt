@@ -1,0 +1,5 @@
+PyScraper
+bs4
+http
+mechanize
+urllib3

@@ -1,0 +1,7 @@
+README.rst
+pager.py
+setup.py
+pager.egg-info/PKG-INFO
+pager.egg-info/SOURCES.txt
+pager.egg-info/dependency_links.txt
+pager.egg-info/top_level.txt
