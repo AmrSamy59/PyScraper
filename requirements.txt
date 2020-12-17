@@ -1,0 +1,4 @@
+mechanize==0.4.5
+cookiejar==0.0.3
+beautifulsoup4==4.9.0
+urllib3==1.25.8
