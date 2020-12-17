@@ -1,19 +1,7 @@
 # PyScraper
 
 **PyScraper** is a python class powered by known libraries to make
-it easier to scrape websites!
-
-# Installation
-
->-Clone/Download the script.
--Get into the folder after you download it, open your shell/terminal.
--Use the following code:
-
-```sh
-$ python setup.py build
-$ python setup.py install
-```
--- After you make sure that the installation is **DONE** follow the following Guide for using that `PyScraper Python class`
+it easier to scrape websites.
 
 How to use ?
 ============
