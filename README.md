@@ -126,13 +126,7 @@ scraper.getCookie(name, [directValue=False, domain='', path="/"])
 scraper.scrape([selector=None])
 # scraping function
 # selector is a css selector as string
-# if you do it once then u do it again it'll scrap from the current point
-# eg u scrapped a <div class="mdiv"> that has a <span>test</span>
-# using scraper.scrape(".mdiv"), you are scraping from the whole html document
-# you'll get the what inside that div
-# then if you scrap again with scraper.scrape("span")
-# you'll get that 'test' inside the span
-# you won't get any other <span> tags outside that div
+# whenever you use this, the scraped object becomes the "main" object you scrape inside after
 # to avoid that you can use this below
 scraper.scrape_once([selector=None])
 # it scrapes from the doc directly no matter how much you use scraper.scrape([selector=None])
